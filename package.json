@@ -1,0 +1,13 @@
+{
+  "name": "battle-evolution",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@capacitor/core": "^6.2.0",
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/app": "^6.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.2.0"
+  }
+}
